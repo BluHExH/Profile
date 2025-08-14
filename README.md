@@ -15,7 +15,7 @@
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=H%20E%20X&width=800&height=200" alt="HEX Banner" />
 </h1>
 
-
+![My image](https://github.com/BluHExH/Profile/blob/main/gpt.jpg)
 
 
 <p align="center">
