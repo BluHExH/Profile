@@ -1,3 +1,4 @@
+![My image](https://raw.githubusercontent.com/BluHExH/Profile/refs/heads/main/Elite.png)
 ![My image](https://raw.githubusercontent.com/BluHExH/Profile/refs/heads/main/no.jpeg)
 ![My gif](https://raw.githubusercontent.com/BluHExH/Profile/refs/heads/main/ezgif-4ee6acbb5da7e1.gif)
 
