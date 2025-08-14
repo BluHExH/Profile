@@ -17,7 +17,7 @@
 
 ![My image](https://github.com/BluHExH/Profile/blob/main/gpt.jpg)
 
-
+![My gif](https://raw.githubusercontent.com/BluHExH/Profile/refs/heads/main/hex.gif)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&width=600&lines=WELCOME+TO+HURU-BAL;CYBER+SECURITY+SPECIALIST;FRONTEND+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR" alt="HURU-BAL Typing Animation">
 </p>
