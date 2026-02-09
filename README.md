@@ -33,19 +33,19 @@ https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logo
 
 
 ⚡ Frameworks & Libraries
-https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
 https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000
 https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white
 https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000
 https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000
 
 🗄️ Databases
-https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" />
 https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000
 https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000
 
 🔧 DevOps & Tools
-https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
 https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000
 https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000
 https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000
@@ -53,10 +53,10 @@ https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoCo
 
 📊 GITHUB WAR STATS
 <div align="center">
-https://github-readme-stats.vercel.app/api?username=BluHExH&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=000000&text_color=00FF41&icon_color=00FF41&title_color=00FF41
+<img src="https://github-readme-stats.vercel.app/api?username=BluHExH&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=000000&text_color=00FF41&icon_color=00FF41&title_color=00FF41" />
 https://github-readme-stats.vercel.app/api/top-langs/?username=BluHExH&layout=compact&hide_border=true&bg_color=000000&text_color=00FF41&title_color=00FF41
 https://streak-stats.demolab.com?user=BluHExH&theme=dark&background=000000&border=00FF41&stroke=00FF41&dates=FFFFFF&sideNums=00FF41&sideLabels=00FF41&currStreakNum=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41
-https://github-profile-trophy.vercel.app/?username=BluHExH&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10
+<img src="https://github-profile-trophy.vercel.app/?username=BluHExH&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -66,10 +66,10 @@ https://github-profile-trophy.vercel.app/?username=BluHExH&theme=matrix&no-bg=tr
 
 
 🐍 CONTRIBUTION SNAKE
-https://raw.githubusercontent.com/BluHExH/BluHExH/output/github-contribution-grid-snake-dark.svg
+<img src="https://raw.githubusercontent.com/BluHExH/BluHExH/output/github-contribution-grid-snake-dark.svg" />
 
 🎮 ACTIVITY GRAPH
-https://github-readme-activity-graph.vercel.app/graph?username=BluHExH&theme=react-dark&bg_color=000000&hide_border=true&custom_title=BluHExH's%2520Coding%2520Activity&area=true&color=00FF41&line=00FF41&point=FFFFFF
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BluHExH&theme=react-dark&bg_color=000000&hide_border=true&custom_title=BluHExH's%2520Coding%2520Activity&area=true&color=00FF41&line=00FF41&point=FFFFFF" />
 
 
 🏆 ACHIEVEMENTS BADGES
