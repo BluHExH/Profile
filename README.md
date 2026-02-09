@@ -28,7 +28,11 @@
 ├─🕐 LOCAL TIME: ![Time](https://img.shields.io/badge/dynamic/json?color=00FF41&label=TIME&query=dateTime&url=https://worldtimeapi.org/api/timezone/Asia/Dhaka&logo=clock)
 └─💾 MEMORY: [![RAM](https://img.shields.io/badge/RAM-8GB/16GB-00FF41?style=flat&logo=memory)](https://)
 
-🛠️ TECH WEAPONS ARSENAL
+
+
+
+
+
 ⌨️ Programming Languages
 https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000
 https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000
@@ -39,14 +43,14 @@ https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logo
 
 
 
-⚡ Frameworks & Libraries
+
 https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000
 https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000
 https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white
 https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000
 https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000
 
-🗄️ Databases
+
 https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000
 https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000
 https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000
@@ -58,7 +62,7 @@ https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&log
 https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000
 https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000
 
-📊 GITHUB WAR STATS
+
 <div align="center">
 https://github-readme-stats.vercel.app/api?username=BluHExH&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=000000&text_color=00FF41&icon_color=00FF41&title_color=00FF41
 https://github-readme-stats.vercel.app/api/top-langs/?username=BluHExH&layout=compact&hide_border=true&bg_color=000000&text_color=00FF41&title_color=00FF41
@@ -72,14 +76,12 @@ https://github-profile-trophy.vercel.app/?username=BluHExH&theme=matrix&no-bg=tr
 
 
 
-🐍 CONTRIBUTION SNAKE
 https://raw.githubusercontent.com/BluHExH/BluHExH/output/github-contribution-grid-snake-dark.svg
 
-🎮 ACTIVITY GRAPH
 https://github-readme-activity-graph.vercel.app/graph?username=BluHExH&theme=react-dark&bg_color=000000&hide_border=true&custom_title=BluHExH's%2520Coding%2520Activity&area=true&color=00FF41&line=00FF41&point=FFFFFF
 
 
-🏆 ACHIEVEMENTS BADGES
+
 <div align="center"><img src="https://img.shields.io/badge/CTF-WINNER-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black" alt="CTF" /> <img src="https://img.shields.io/badge/BUG-BOUNTY-$10K+-red?style=for-the-badge&logo=hackerone&logoColor=white" alt="Bug Bounty" /> <img
 src="https://img.shields.io/badge/SECURITY-RESEARCHER-blue?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Security" /> <img src="https://img.shields.io/badge/OPEN-SOURCE_COMMITTER-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" /></div>
 
